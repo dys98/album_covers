@@ -1,9 +1,11 @@
-title{
+h1, h2{
+	display: block;
 	background-color: #b62868;
     width: 100%;
+    font-size: 30pt;
 }
-header{
+h3{
 	display: block;
     background-color: #d52f4c;
-    font-size: 30pt;
+    font-size: 20pt;
 }
