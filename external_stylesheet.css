@@ -10,7 +10,7 @@ nav{
 }
 
 
-.flex-container {
+#flex-container {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
@@ -19,7 +19,7 @@ nav{
   list-style: none;
 }
 
-.flex-item {
+#flex-item {
   background: tomato;
   padding: 5px;
   width: 200px;
