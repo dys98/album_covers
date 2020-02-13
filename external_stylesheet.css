@@ -8,6 +8,10 @@ h1, h2{
     width: 100%;
 }
 
+p {
+  font-size: 2em;
+}
+
 .nav {
   display: flex;
   flex-flow: row wrap;
