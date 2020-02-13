@@ -1,4 +1,7 @@
-head {background-color: #ffd700;}
+head {
+  background-color: #ffd700;
+}
+
 h1, h2{
 	display: block;
 	background-color: #b62868;
@@ -20,9 +23,6 @@ h1, h2{
   display: block;
   padding: 1em;
   color: white;
-}
-
-.nav a:hover {
   background: #1565C0;
 }
 
@@ -40,7 +40,7 @@ h1, h2{
   .nav a { 
     text-align: center; 
     padding: 10px;
-    border-top: 1px solid rgba(255, 255, 255,0.3); 
+    border-top: 1px solid; 
     border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
   }
   .nav li:last-of-type a {
@@ -67,6 +67,6 @@ h1, h2{
   line-height: 150px;
   color: white;
   font-weight: bold;
-  font-size: 1em;
+  font-size: 2em;
   text-align: center;
 }
