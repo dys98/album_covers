@@ -1,4 +1,4 @@
-head {
+body {
   background-color: #ff6f69;
 }
 
@@ -59,7 +59,7 @@ h1, h2{
 }
 
 .gen {
-  background: tomato;
+  background: #ffcc5c;
   padding: 5px;
   width: 200px;
   height: 150px;
