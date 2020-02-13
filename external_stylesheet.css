@@ -8,6 +8,12 @@ h1, h2{
     width: 100%;
 }
 
+footer {
+  display: block;
+  background-color: #fb2e01;
+    width: 100%;
+}
+
 .nav {
   display: flex;
   flex-flow: row wrap;
